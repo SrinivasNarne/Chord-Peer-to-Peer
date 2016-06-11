@@ -1,0 +1,15 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala" output="target/scala-2.10/classes"/>
+  <classpathentry kind="src" path="src/main/java" output="target/scala-2.10/classes"/>
+  <classpathentry kind="src" path="src/test/scala" output="target/scala-2.10/test-classes"/>
+  <classpathentry kind="src" path="src/test/java" output="target/scala-2.10/test-classes"/>
+  <classpathentry kind="lib" path="/Users/srinivasnarne/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.1.jar"/>
+  <classpathentry kind="lib" path="/Users/srinivasnarne/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.1.jar"/>
+  <classpathentry kind="lib" path="/Users/srinivasnarne/.ivy2/cache/com.typesafe/config/bundles/config-1.0.0.jar"/>
+  <classpathentry kind="lib" path="/Users/srinivasnarne/.ivy2/cache/com.typesafe.akka/akka-remote_2.10/bundles/akka-remote_2.10-2.1.1.jar"/>
+  <classpathentry kind="lib" path="/Users/srinivasnarne/.ivy2/cache/io.netty/netty/bundles/netty-3.5.8.Final.jar"/>
+  <classpathentry kind="lib" path="/Users/srinivasnarne/.ivy2/cache/com.google.protobuf/protobuf-java/jars/protobuf-java-2.4.1.jar"/>
+  <classpathentry kind="lib" path="/Users/srinivasnarne/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
